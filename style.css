@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+
+
+#skull {
+    height: 10%;
+    width: 10%;
+}
+#colors {
+    font-size: 50px;
+    font-family:'Fascinate Inline', cursive;
+}
+#header {
+    text-align: center;
+    color: #2F4F4F;
+    font-size: 55px;
+    font-family:'Fascinate Inline', cursive;
+}
+
+.purple {
+    font-size: 25px;
+    font-family:impact;
+}
+.fade {
+    opacity:0.5;
+}
+.fade:hover {
+        opacity:1;
+}
+p {
+    color: coolblue;
+}
+ol {
+    color: SeaGreen;
+    font-family: 'Pacifico', cursive;
+}
+
+#paula {
+   background-image:url(https://s-media-cache-ak0.pinimg.com/736x/12/a4/b7/12a4b77138481e553ba45b485d5a3956.jpg);
+   font-size: 45px;
+   text-align: center;
+   color: Crimson;
+   font-family:'Fascinate Inline', cursive;
+}
+#wsp {
+    background: -webkit-linear-gradient(left, crimson , indianRed);
+}
+#haha {
+    font-size: 40px;
+    text-align:center;
+    background-image: url(http://mirror80.com/wp-content/uploads/2016/06/Marble-pattern.jpg)
+}
+#hey {
+    background-color: #660033;
+    font-size: 45px;
+    text-align: center;
+}
+.stores {
+    font-size: 80px;
+    color: IndianRed;
+}
